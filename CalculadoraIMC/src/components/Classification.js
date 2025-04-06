@@ -13,7 +13,7 @@ const styles = StyleSheet.create({ //estiliza a classificação
     classificacao: {
         fontSize: 24,
         fontWeight: 'bold',
-        color: '#333',
+        color: '#02D972',
         textAlign: 'center',
         marginTop: 20,
     },

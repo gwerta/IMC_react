@@ -15,7 +15,7 @@ const styles = StyleSheet.create({ //estiliza a aplicação
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
-    backgroundColor: "#f5f5f5",
+    backgroundColor: "#682D84",
     padding: 16,
   },
 });

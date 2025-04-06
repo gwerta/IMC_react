@@ -12,7 +12,7 @@ const styles = StyleSheet.create({ //estiliza o título
     title: {
         fontSize: 32,
         fontWeight: 'bold',
-        color: '#000',
+        color: '#02D972',
         textAlign: 'center',
         marginBottom: 24,
     },
