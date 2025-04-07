@@ -11,3 +11,4 @@ FUNCIONAMENTO E OBJETIVOS:
 É um simples app usando react native para calcular o seu imc, peso ideal, peso máximo e peso mínimo apenas inserindo sua altura e seu peso de uma maneira intuitiva rápida e fácil.
 
 VIDEO DEMONSTRAÇÃO:
+https://youtube.com/shorts/PQ7erXE1h-0
